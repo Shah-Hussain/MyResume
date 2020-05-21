@@ -64,7 +64,8 @@ font-family: 'Poppins', sans-serif; color:
 
  ul li{list-style-type: none;font-weight: bold}
  
-.hobbies ul li{font-family: 'Poppins', sans-serif;margin-bottom: 10px;font-size:20px;display:;margin-left:55px;font-weight: bolder;}
+.hobbies ul li{font-family: 'Poppins', sans-serif;margin-bottom: 10px;font-size:20px;display:;margin-left:55px;font-weight: bolder; display:inline-block;}
+.hobby{margin-left: 30px;}
 
 
 
